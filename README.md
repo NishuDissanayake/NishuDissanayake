@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <br>
 <hr>
--  🔭 I’m currently an undergraduate of <b>NSBM Green University</b>
--  🌱 I’m currently learning <b>Web Development</b>
+-  🔭 I’m currently an undergraduate of <b>NSBM Green University</b><br>
+-  🌱 I’m currently learning <b>Web Development</b><br>
 -  👯 I’m looking to collaborate on <b>Open Source Projects</b>
