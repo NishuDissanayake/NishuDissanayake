@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishuDissanayake&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aNishuDissanayake&show_icons=true" alt="NishuDissanayake" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishuDissanayake&show_icons=true" alt="NishuDissanayake" /></p>
