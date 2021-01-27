@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/NishuDissanayake">
-  <img bgcolor="white" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishuDissanayake&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishuDissanayake&layout=compact&langs_count=8&theme=light"/>
-</a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishuDissanayake&show_icons=true" alt="NishuDissanayake" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+
+</p>![Nishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishuDissanayake&layout=compact&langs_count=8&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishuDissanayake&layout=compact&langs_count=8&theme=light)</p>
