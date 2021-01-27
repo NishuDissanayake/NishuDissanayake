@@ -1,4 +1,4 @@
-### Hi there :wave: Welcome you to my profile:four_leaf_clover:
+### Hi there :wave: I am Nishu Dissanayake:four_leaf_clover:
 
 <!--
 **NishuDissanayake/NishuDissanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <br>
 <hr>
--  🔭 I’m currently an undergraduate of <b>NSBM Green University</b><br>
--  🌱 I’m currently learning <b>Web Development</b><br>
--  👯 I’m looking to collaborate on <b>Open Source Projects</b>
+-  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
+-  :computer: I’m currently learning <b>Web Development</b><br>
+-  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b>
