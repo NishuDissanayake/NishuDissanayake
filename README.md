@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
-![C#](https://img.shields.io/badge/-c-sharp-ff69b4?style=flat-square&logo=C#)
-![C](https://img.shields.io/badge/-c-ff69b4?style=flat-square&logo=C)
+![C#](https://img.shields.io/badge/-C%20harp-ff69b4?style=flat-square&logo=C#)
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)  -->
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
