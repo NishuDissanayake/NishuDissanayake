@@ -1,4 +1,5 @@
 ### Hi there :wave: I am Nishu Dissanayake:four_leaf_clover:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishuDissanayake&color=brightgreen" alt="NishuDissanayake" /> </p>
 
 <!--
 **NishuDissanayake/NishuDissanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
