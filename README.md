@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an undergraduate of <b>NSBM Green University</b>
-- 🌱 I’m currently learning <b>Web Applications Development</b> & <b>Mobile Applications Development</b>
-- 👯 I’m looking to collaborate on <b>Open Source Projects</b>
+- 🔭 I’m currently an undergraduate of <b>NSBM Green University, Sri Lanka</b>
+- 🌱 I’m currently learning <b>Desktop Applications Development</b> & <b>Project Management</b>
+- 👯 I’m looking to collaborate on <b>Open Source Projects</b> and <b>Commercial Projects</b>
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
--  :computer: I’m currently learning <b>Web Applications Development</b> & <b>Mobile Applications Development</b><br>
+-  :computer: I’m currently learning <b>Desktop Applications Development</b> & <b>Project Management</b><br>
 -  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b>
+-  🖋️: And also, I am a <b>blogger</b>
 
 ### Languages and Tools:
 <p>
