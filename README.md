@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
 -  :computer: I’m currently learning <b>Desktop Applications Development</b> & <b>Project Management</b><br>
--  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b>
+-  :star2: I’m interested to collaborate on <b>Open Source Projects and Commercial Projects</b></br>
 -  🖋️: And also, I am a <b>blogger</b>
 
 ### Languages and Tools:
