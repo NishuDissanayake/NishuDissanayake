@@ -83,4 +83,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/nishani-dissanayake" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishani-dissanayake" height="30" width="40" /></a>
 </p>
 
-
+<hr>
+<h3 align="left">Read my articles on Medium:</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nishudissanayake5252/0" alt="Recent Article 0"> 
