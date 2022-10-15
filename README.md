@@ -84,6 +84,5 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<h3 align="left">Read my articles on Medium, Dynobase:</h3>
+<h3 align="left">Read my articles on Medium:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nishudissanayake5252/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://dynobase.dev/dynamodb-vs-amazon-rds/">
