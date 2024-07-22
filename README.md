@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 -  :mortar_board: I graduated from <b>NSBM Green University, Sri Lanka</b><br />
 -  :computer: I’m interested in <b>.NET Development</b>, <b>Machine Learning</b>, & <b>Project Management</b><br />
--  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b></br><br />
+-  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b></br>
 -  🖋️ And also, I am working as a <b>technical content writer</b><br />
 
 ### Languages and Tools:
