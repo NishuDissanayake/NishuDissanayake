@@ -7,9 +7,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I graduated from <b>NSBM Green University, Sri Lanka</b>
-- 🌱 I’m interested in <b>.NET Development</b>, <b>Machine Learning</b>, & <b>Project Management</b>
-- 👯 I’m looking to collaborate on <b>Open Source Projects</b> and <b>Commercial Projects</b>
+- 🔭 I graduated from <b>NSBM Green University, Sri Lanka</b><br />
+- 🌱 I’m interested in <b>.NET Development</b>, <b>Machine Learning</b>, & <b>Project Management</b><br />
+- 👯 I’m looking to collaborate on <b>Open Source Projects</b> and <b>Commercial Projects</b><br />
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
--  :mortar_board: I graduated from <b>NSBM Green University, Sri Lanka</b>
--  :computer: I’m interested in <b>.NET Development</b>, <b>Machine Learning</b>, & <b>Project Management</b>
--  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b></br>
--  🖋️ And also, I am working as a <b>technical content writer</b>
+-  :mortar_board: I graduated from <b>NSBM Green University, Sri Lanka</b><br />
+-  :computer: I’m interested in <b>.NET Development</b>, <b>Machine Learning</b>, & <b>Project Management</b><br />
+-  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b></br><br />
+-  🖋️ And also, I am working as a <b>technical content writer</b><br />
 
 ### Languages and Tools:
 <p>
